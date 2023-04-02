@@ -22,6 +22,6 @@ Involuntary- If an employee is terminated from a job due to some ethical issue o
 
 Knowing the most likely reasons why employees leave the organization, can help the organization take action and reduce the level of Attrition inside the organization.
 
-In this Dashboard, We can see Attrition based on Eduction,Age,Job Profile,Salary Slab, Years spent in company and gender.
-Also, used the filter with respect to the departments like Human Resourse , Research and Development and Sales.
+In this Dashboard, We can see Attrition based on Education,Age,Job Profile, Salary Slab, Years spent in company and gender.
+Also, used the filter with respect to the departments like Human Resource , Research and Development and Sales.
 
