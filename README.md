@@ -1,4 +1,4 @@
-# Power-BI-Dashboard
+# HR-Employee-Attrition-Dashboard
 Power BI Project
 
 What is Attrition?
